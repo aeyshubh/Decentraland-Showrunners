@@ -1,0 +1,7 @@
+{
+  "ethereumMarketplaceContract": "0x8e5660b4ab70168b5a6feea0e0315cb49c8cd539",
+  "polygonMarketPlaceContract": "0x02080031b45A3c67d338Dd4A2CC309D28756A160",
+  "polygonMarketPlaceContractV2": "0x480a0f4e360E8964e68858Dd231c2922f1df45Ef",
+  "polygonBidContract": "0xb96697FA4A3361Ba35B774a42c58dACcaAd1B8E1",
+  "ethereumBidContarct": "0xe479dfd9664c693b2e2992300930b00bfde08233"
+}
